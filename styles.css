@@ -1,1 +1,6 @@
-/*  your css code here. If applicable */
+div{
+	margin:5px;
+}
+div div{
+	gap:2px;
+}
